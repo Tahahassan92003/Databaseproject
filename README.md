@@ -1,2 +1,0 @@
-# Databaseproject
-Car management system 
